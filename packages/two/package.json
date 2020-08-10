@@ -1,6 +1,6 @@
 {
   "name": "two",
-  "version": "0.0.2-lol.0",
+  "version": "0.0.2-lol.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
